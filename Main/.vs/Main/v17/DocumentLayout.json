@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B831BD3-E650-4F7D-8E38-0AE030A0D9FA}|Main\\Main.vcxproj|C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B831BD3-E650-4F7D-8E38-0AE030A0D9FA}|Main\\Main.vcxproj|solutionrelative:Main\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B831BD3-E650-4F7D-8E38-0AE030A0D9FA}|Main\\Main.vcxproj|C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B831BD3-E650-4F7D-8E38-0AE030A0D9FA}|Main\\Main.vcxproj|solutionrelative:Main\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B831BD3-E650-4F7D-8E38-0AE030A0D9FA}|Main\\Main.vcxproj|C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B831BD3-E650-4F7D-8E38-0AE030A0D9FA}|Main\\Main.vcxproj|solutionrelative:Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,19 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\menu.cpp",
+              "RelativeDocumentMoniker": "Main\\menu.cpp",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\menu.cpp",
+              "RelativeToolTip": "Main\\menu.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T19:09:45.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\menu.h",
+              "RelativeDocumentMoniker": "Main\\menu.h",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\menu.h",
+              "RelativeToolTip": "Main\\menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T19:09:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\Main.cpp",
               "RelativeDocumentMoniker": "Main\\Main.cpp",
               "ToolTip": "C:\\Users\\Denis\\Desktop\\project march\\sprint-eschool-team001\\Main\\Main\\Main.cpp",
               "RelativeToolTip": "Main\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-11T08:32:49.973Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
