@@ -5,9 +5,19 @@
 ═════════════════════════════════════════════════════════════════════════════════════════
 
 # ⭑🧑‍🎓Who are we and what's our project about?
+
+## We are TEAM 001. Our project is based on the C++ programme-TEST, which helps users to test their general knowledge! There are some basic facts everybody has to be aware of, right? If you wanna find out wether your general knowledge is good enough, take our 25-questions test. However, be careful: there are 3 difficulties:
+ ㅤㅤㅤㅤㅤㅤㅤ ![Static Badge](https://img.shields.io/badge/difficulty-easy-green?style=for-the-badge) ;   ㅤㅤ ㅤ   ㅤㅤ   ㅤ  ![Static Badge](https://img.shields.io/badge/difficulty-medium-orange?style=for-the-badge) ;  ㅤㅤㅤㅤㅤㅤ  ![Static Badge](https://img.shields.io/badge/difficulty-difficult-red?style=for-the-badge)ㅤㅤㅤㅤ
+                            ㅤ   
 ═════════════════════════════════════════════════════════════════════════════════════════
 
-## ⭑🫂Collaborators/team members. here will be some links to our GitHub profiles and social media too.
+# ⭑🫂Team members
+### - Daria Larichkina (as a team leader and full stack developer);
+### - Denis Zavalishin (as a back end developer);
+### - Elizaveta Furnika (as a front end developer);
+### - Varvara Safonova (as a designer);
+### - Svyatoslav Sidorov (as a designer);
+
 ═════════════════════════════════════════════════════════════════════════════════════════
 
 ## ⭑💡What our application does,  the technologies we used, some of the challenges we faced and features we hope to implement in the future.
