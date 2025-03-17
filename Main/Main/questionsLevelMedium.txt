@@ -1,0 +1,207 @@
+
+level medium:
+
+1.How many minutes are in a full week?
+1) 10,080; 2) 3600; 3) 36000; 4) 1080;
+
++1 point if you chose 1
+
+
+2. true or false: Holland is a region in The Netherlands?
+type true or false, all lowercase
++ 1 point if you type true
+
+3. In what country is the Chernobyl nuclear plant located?
+1) USA; 2) Belarus; 3) Ukraine; 4) Poland;
+
+
++1 point if you chose 3
+
+4. What is the largest Spanish-speaking city in the world?
+1) Mexico City; 2) Madrid; 3) Rome; 4) Paris;
+
+
++1 point if you chose 1
+
+5. On which continent would you find the world's largest dessert?
+1) Africa; 2) Antarctica; 3) Australia; 4) Asia;
+
++1 point if you chose 2
+
+6. The capital of Ireland is...
+1) Dublin; 2) Lissabon; 3) Yakutsk; 4) Bangkok;
+
++1 point if you chose 1
+
+
+7. Which country is portrayed?
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡀⢤⣤⣄⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣨⣿⣿⣿⣿⣥⣀⣀⢀⡴⠀⠀⠀⠀⢠⣤⣤⣸⣷⡂⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣟⣁⣀⣴⣶⣾⣿⣿⣿⣿⣧⣶⣄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⢀⣸⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠰⠶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀
+⠀⠀⠐⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡅⠀⠀⠀
+⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡆⠀⠀
+⠀⠀⠐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣿⠃⠀⠀
+⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⢛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠈⠉⠙⠛⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠈⠙⠉⠻⡿⠉⠛⠿⠟⠋⠉⠁⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀
+
+1) Germany; 2) Switzerland; 3) Poland; 4) Canada;
++2 point if you chose 1
+
+
+8. Which country is portrayed? 
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣴⣿⣿⣿⣿⣿⣿⣇⣠⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢷⣇⣀⡀⢀⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⠀⠀⠀⠀⠀⠀
+⠛⣻⣿⣿⣿⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀
+⠘⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡶⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠿⣿⠿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠉⠀⠀⠀⠀⠀⠈⠙⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠈⠉⠛⢿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣷
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡏
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠃
+
+1) France; 2) Belgium; 3) Sudan; 4) Morocco;
+
++2 point if you chose 1
+
+9. If its 4 pm in Berlin, what time is it in Beijing? type your answer like this - "1am", all lowercase with no spaces;
+
+
+
++3 points if you type 11pm
+
+
+10. How many elements are in the periodic table? 
+1) 118; 2) 18; 3) 28; 4) 158;
++2 point if you chose 1
+
+
+11. Which is the only body part that is fully grown from birth?
+1) Eyes; 2) Nose; 3) Lungs; 4) Ears;
+
++1 point if you chose 1
+
+
+12. What animal has the largest brain relative to body size?
+1) Fish; 2) Eagle; 3) Bat; 4) Dolphin;
+
++1 point if you chose 4
+
+13. Identical twins don't have the same...
+1) fingerprints; 2) eye color; 3) nose form; 4) hair color;
+
+
++1 point if you chose 1
+
+14. Who painted the Mona Lisa?
+
+1) Leonardo da Vinci; 2) Michelangelo; 3) Rembrandt; 4) Vermeer
+
++1 point if you chose 1
+
+15. What is the rarest blood type among humans?
+1) AB-negative; 2) A+; 3) AB+; 4) O+;
+
++1 point if you chose 1
+
+16. Who wrote “Pride and Prejudice”?
+1) Jane Austen; 2) Albert Einstein; 3) Van Gogh; 4) Salvador Dali ;
+
++1 point if you chose 1
+
+
+17. In which year did the Titanic sink?
+type the answer in numbers.
++1 point if you type 1912
+
+
+18. What is the currency of Japan?
+1) Won; 2) usd; 3) eur; 4) yen;
++1 point if you chose 4;
+
+
+19. Google Chrome, Safari, Firefox, and Explorer are different types of what?
+1) Apps; 2) Social media; 3) Web browsers; 4) Archives;
+
++1 point if you chose 3;
+
+
+20. Which programming language is often used for developing Android applications?
+1) Java; 2) C; 3) C++; 4) HTML;
++1 point if you chose 1;
+
+
+21. How many molecules of oxygen does ozone have?
+type your answer with number only;
+
+
++1 point if you type 3;
+
+22. The shortest distance between Russia and the US is:
+1) 3.8 kilometers; 2) 38 km; 3) 380 km; 4) 3800km;
+
+
++1 point if you chose 1;
+
+
+23. What name does deer meat go by?
+1) beef; 2) pork; 3) venison; 4) deermeat;
+
++1 point if you chose 3;
+
+
+24. Which country invented tea?
+1) Bulgaria; 2) China; 3) Finland; 4) Norway;
++1 point if you chose 2;
+
+
+25. What is your body’s largest organ?
+1) Skin; 2) Leg; 3) Heart; 4) Stomach; 
++1 point if you chose 1;
+
+
+
+
+
+max points: 30/30
+
+
+to estimate yourself, divide your points by 5.
+example: 28/5 = 5.6 That still means 6. 
+example 2: 16/5 = 3.2. That means 3.
+6 - excellent;
+5- very good;
+4 - good;
+3 - not really well;
+2 - bad; 
+
+
+
+
+
