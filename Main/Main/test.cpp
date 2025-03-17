@@ -8,11 +8,11 @@ void test(int diffculty) {
 		int questionindx; // need to do a random numbers that dont repeats
 		switch (diffculty) {
 		case 1:
-			question(1,questionindx,total_score);
+			question(1,questionindx);
 		case 2:
-			question(2,questionindx, total_score);
+			question(2,questionindx);
 		case 3:
-			question(3,questionindx, total_score);
+			question(3,questionindx);
 		}
 	}
 	// need to do a total score counter here that will show grade
