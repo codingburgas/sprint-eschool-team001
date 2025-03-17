@@ -1,1 +1,1 @@
-int question(int diffuclty, int question_index);
+bool question(int diffuclty, int question_index);

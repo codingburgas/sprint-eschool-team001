@@ -30,6 +30,9 @@
     <ClCompile Include="question.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="answer.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="menu.h">
@@ -42,6 +45,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="question.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="answer.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

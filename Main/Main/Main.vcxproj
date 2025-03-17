@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="answer.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="menu.cpp" />
     <ClCompile Include="question.cpp" />
@@ -134,6 +135,7 @@
     <ClCompile Include="testmenu.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="answer.h" />
     <ClInclude Include="menu.h" />
     <ClInclude Include="question.h" />
     <ClInclude Include="test.h" />
