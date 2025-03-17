@@ -22,28 +22,29 @@
                             ㅤ   
 
 # ⭑🫂Team Members
-### - Daria Larichkina (as a team leader and full stack developer);
-### - Denis Zavalishin (as a back end developer);
-### - Elizaveta Furnika (as a front end developer);
-### - Varvara Safonova (as a designer);
-### - Svyatoslav Sidorov (as a designer);
-### - Nikol Stoyanova (as a mentor);
+- ### Daria Larichkina (as a team leader and full stack developer);
+- ### Denis Zavalishin (as a back end developer);
+- ### Elizaveta Furnika (as a front end developer);
+- ### Varvara Safonova (as a designer);
+- ### Svyatoslav Sidorov (as a designer);
+- ### Nikol Stoyanova (as a mentor);
 
 
 # ⭑💡What our Application does?
 ## Our application consists of a main file, headers, and functions related to each other. This structure ensures a more efficient and comprehensive approach to code implementation. Most questions require numerical answers; however, there are also open-ended questions where users must type their responses. At the end of the test, users receive a grade based on their answers. The highest grade is 6, indicating an excellent result, while the lowest grade is 2, signifying a poor outcome.
 # ⭑💻Used Technologies:
-### - COMMUNICATION ![DISCORD Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  <img src="https://imgs.search.brave.com/TCaxXba6FDPgBLScFrXyOPLtb0Fp46vZUEJEvcAY6h8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vbWk0/NjJtZTk5LW1pY3Jv/c29mdC10ZWFtcy1s/b2dvLW1pY3Jvc29m/dC10ZWFtcy5wbmc" alt="Teams" width=32px> ![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-### - PROGRAMMING LANGUAGE ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-### - APPS ![GOOGLE DOCS Badge](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white4) ![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio 2022 logo" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub logo" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git" width=32px>
-### - DOCUMENTATION <img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" alt="Word" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="PowerPoint" width=32px>
+- ### COMMUNICATION ![DISCORD Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  <img src="https://imgs.search.brave.com/TCaxXba6FDPgBLScFrXyOPLtb0Fp46vZUEJEvcAY6h8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vbWk0/NjJtZTk5LW1pY3Jv/c29mdC10ZWFtcy1s/b2dvLW1pY3Jvc29m/dC10ZWFtcy5wbmc" alt="Teams" width=32px> ![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+- ### PROGRAMMING LANGUAGE ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ### APPS ![GOOGLE DOCS Badge](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white4) ![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio 2022 logo" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub logo" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git" width=32px>
+- ### DOCUMENTATION <img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" alt="Word" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="PowerPoint" width=32px>
    
 
 
 
 
 # ⭑📥How to Install and Run the Project
-WORK IN PROGRESS...
+### In order to install our project locally, open CMD and run this command:
+<pre>git clone "https://github.com/codingburgas/sprint-eschool-team001.git"</pre>
 
 # ⭑🚀How to Use the Project 
 WORK IN PROGRESS...
