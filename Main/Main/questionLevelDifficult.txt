@@ -1,0 +1,247 @@
+level difficult;
+1. What is the chemical symbol for gold?
+type like this: Br (beginning with capital letter, two letters in sum)
+ +1 point if correct (Au)
+
+
+2. What is the only continent where coffee grows naturally?
+1) Africa; 2) Australia; 3) South America; 4) Asia;
+
+
++1 point if you chose 1
+
+3.What fruit is known as the "king of fruits"?
+
+1) Dragon Fruit; 2) Durian; 3) Mango; 4) Pineapple;
+
++1 point if you chose 1
+
+4. What is the most spoken language in the world (by native speakers)?
+1) French; 2) Mandarin Chinese; 3) Hindi; 4) Arabic;
++1 point if you chose 2
+
+5. How many keys does a standard full-size piano have?
+
+1) 99; 2) 77; 3) 88; 4) 66;
++1 point if you chose 3
+
+6. What does this insect look like when developing/ being really young?
+
+                           .oMc
+                        .MMMMMP
+                      .MM888MM
+....                .MM88888MP
+MMMMMMMMb.         d8MM8tt8MM
+ MM88888MMMMc `:' dMME8ttt8MM
+  MM88tt888EMMc:dMM8E88tt88MP
+   MM8ttt888EEM8MMEEE8E888MC
+   `MM888t8EEEM8MMEEE8t8888Mb
+    "MM88888tEM8"MME88ttt88MM
+     dM88ttt8EM8"MMM888ttt8MM
+     MM8ttt88MM" " "MMNICKMM"
+     3M88888MM"      "MMMP"
+      "MNICKM"
+
+1) caterpillar; 2) fly; 3) worm; 4) moth
+
++1 point if you chose 1
+
+
+7. What do you call this animal being a female?
+
+    .     _,
+                   |`\__/ /
+                   \  . .(
+                    | __T|
+                   /   |
+      _.---======='    |
+     //               {}
+    `|      ,   ,     {}
+     \      /___;    ,'
+      ) ,-;`    `\  //
+     | / (        ;||
+     ||`\\        |||
+     ||  \\       |||
+     )\   )\      )||
+     `"   `"      `""
+1) hare; 2) doe; 3) ferret; 4) tadpole;
+
++2 point if you chose 2
+
+8. What is this type of precipitation called?
+
+                           000      00
+                           0000000   0000
+              0      00  00000000000000000
+            0000 0  000000000000000000000000       0
+         000000000000000000000000000000000000000 000
+        0000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000
+              / / / / / / / / / / / / / / / /
+            / / / / / / / / / / / / / / /
+            / / / / / / / / / / / / / / /
+          / / / / / / / / / / / / / /
+          / / / / / / / / / / / / /
+        / / / / / / / / / / / /
+        / / / / / / / / / /
+
+1) rain; 2) snow; 3) sleet; 4) hail;
++2 point if you chose 1
+
+
+9. In what year did the Chernobyl disaster occur?
+1) 1980; 2) 1983; 3) 1986; 4) 1989;
+
+
++1 point if you chose 3
+
+
+10. What style of art is Salvador Dalí known for?
+1) realism; 2) surrealism; 3) impressionism; 4) cubism
+
++1 point if you chose 2;
+
+11.What is the second largest country by land area?
+1) The US; 2) Russia; 3) Canada; 4) China;
+
++1 point if you chose 3;
+
+
+12. What element has the atomic number 1?
+
+1) Hydrogen; 2) Iron; 3) Oxygen; 4) Gold;
+
++1 point if you chose 1;
+
+13. Who painted The Starry Night?
+
+⠀⠀⡰⢉⡄⣌⠳⡀⢸⣿⣽⣿⠀⠀⢠⣾⡿⣦⢀⣾⣶⣆⠀⠀⠀⠀⠀⠀⣠⠤⠤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠤⠤⣀⡀⠀
+⠀⠀⠳⣘⣶⣏⡰⠃⢠⡎⠉⠀⠀⠀⠀⠻⠿⠟⠀⠛⠟⠋⠀⠀⠀⠀⠀⢰⠁⡞⢱⡌⡆⠀⠀⠀⠀⠀⠀⠀⠀⣠⠊⠀⢀⣀⣀⠀⠈⠢
+⠀⠀⠀⠀⠈⠀⠀⢠⡟⣇⣀⡀⠀⠀⠀⠀⠀⣠⠤⠖⠒⠒⠒⠒⠂⠤⢄⡈⠦⣉⣉⠴⠁⠀⠀⠀⠀⠀⠀⠀⡸⠁⠀⡔⢡⠊⠁⠀⠀⠀
+⡀⠀⠀⠀⠀⠀⠀⢸⣧⣿⣿⣿⡆⠀⣠⠔⠉⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⠈⠑⠢⡀⠀⠀⣠⣶⠖⠢⡄⠀⠘⡇⠀⢸⡀⠘⣄⠀⣠⡄⠀
+⠈⠢⣀⠀⠀⠀⠀⠀⣿⡟⠛⣋⠤⢊⡡⠒⢀⡠⡔⠊⠁⠀⠀⠀⠀⠀⠀⠉⠢⣄⠘⢆⠰⡇⢾⣿⡆⢸⠀⠀⢱⡀⠀⠱⢄⣀⣉⠼⠁⠀
+⣆⠀⠈⠑⠢⠤⡤⠤⢾⠹⡉⠀⠀⠁⠀⣀⠴⢊⡠⣤⢤⡤⠀⠎⠁⠀⠀⠀⠀⠈⠆⠈⡄⠱⠤⣉⠴⠋⠀⠀⠀⠱⢄⡀⠀⠀⠀⠀⠀⠘
+⠈⠳⣄⡀⠀⠀⢠⢠⣿⠁⢳⠀⢀⡠⠚⡡⠊⢡⠞⢁⠎⠀⠈⡆⠀⠀⠀⠀⠀⠀⡜⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠋⠁⠀⠀
+⠀⠀⠈⠉⠁⠀⢸⣿⠏⠀⣼⠂⣉⠔⠋⠀⢀⡟⠀⡎⠀⠀⠀⠈⠦⣀⡀⠀⠔⠊⡠⠞⠋⢉⣉⡉⠉⠑⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
+⠢⣀⠀⠀⠀⠀⣹⠘⢧⠀⣿⡏⠀⠀⠀⠀⠈⢇⠀⢱⡀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠀⠀⣀⣀⣀⠈⠙⠢⡀⠈⡆⠀⠀⣀⠄⠀⠀⠀⠀⠀
+⢼⣿⣽⠃⢸⣿⣿⣇⠀⢣⠹⡇⠀⠀⢀⣠⠤⠼⣦⡀⠱⣄⠀⠀⠀⠀⠀⠀⠀⣀⢴⠋⢡⠄⠀⣱⠀⠀⡇⠀⣆⡤⠊⠀⠀⠀⠀⠀⠀⠀
+⠀⠉⠁⠀⠻⢿⢿⡟⢆⠈⣆⡇⠀⢠⠏⢀⣤⣤⠀⢿⠒⠦⠥⠤⠤⠤⠤⠒⠉⠀⠘⣄⠈⠁⠉⠀⣠⠞⢁⡼⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡞⢱⠀⠆⢸⡇⠀⢸⡀⠘⠿⠿⠁⢸⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠔⠚⠓⠢⠤⠄⠒⠊⠁⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢤⡘⡇⠀⢣⠀⡏⢻⡴⠀⣿⠦⠤⣤⡴⠗⠊⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⢀⣀⡀⠀⠀⢀⣀⠤⠄⠀⠀⠒⠁⢀⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⢻⠀⠀⠇⢇⠘⣷⣤⠿⡖⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⠤⠒⠉⠁⠀⠉⠑⠪⣅⣀⡀⠀⠀⠤⠔⠊⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⡇⠀⡀⢸⠀⠻⣿⠀⠱⣄⠀⠀⠀⢀⡤⠄⠤⣄⡠⠖⠋⣇⠀⠀⠀⠀⠀⣀⠴⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠈⠢⣄⡤⠤⢒⣶⡇⢀⠇⡸⠀⠰⡿⡄⠀⠈⠳⡒⠋⠀⠀⠀⠀⠀⠀⠀⠀⣿⠠⠤⠒⠊⣉⣀⣀⠀⢀⡠⠤⠼⠷⠶⠂⠀⣠⠄⠀⠀⠀
+⠀⣀⠤⠛⠉⢁⡜⠀⡜⢀⡇⠀⢠⠃⢹⠃⠀⠀⢳⢀⡀⠀⠀⠀⠀⠀⣀⢰⣿⡖⠒⠚⠛⠘⠫⠤⣙⠉⠉⠁⠐⠢⣄⡠⠞⠠⠀⠀⠀⠀
+⠋⠀⠀⠀⠀⡞⠀⢰⠁⢸⠀⢀⡏⢀⡞⡆⠀⢀⡾⢿⡷⣶⣲⣄⣸⣿⣿⣿⣿⣻⣬⣷⣄⠀⣶⡞⢻⠯⠯⢗⠀⠀⠀⠙⠢⡀⠀⠀⠀⠀
+⠄⠀⠀⠀⠀⣇⠀⢸⠀⠘⡄⢸⠀⢸⣹⠁⠀⡼⣇⠀⣆⠋⠉⠛⠛⠛⣿⣯⣿⣷⠿⣿⡄⠐⠛⠛⢻⣦⠹⢍⣳⣤⣄⣀⣠⣗⠒⠂⠀⠀
+⠀⠀⠀⠀⠉⠙⣢⡀⢧⠀⠈⢆⠳⣼⠸⡀⠸⡁⠈⠑⢌⠳⡄⢀⣀⣼⡿⢿⣿⣾⣿⣥⠾⢤⣤⣶⣄⣀⣀⠈⠹⢿⡿⠿⠧⣼⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠉⠀⠱⡄⠑⣤⡀⢣⣹⡄⠘⠢⣷⣤⣀⠀⢳⠈⡇⠀⠀⠀⠀⠙⢛⣿⡿⢧⣾⡿⠿⢛⣋⣿⣲⠀⢨⡧⠤⠀⠘⠀⠀⠀⠀
+
+
+1) Vincent van Gogh; 2) Salvador Dalí; 3) Shirley Chisholm; 4) Harper Lee
+
++1 point if you chose 1;
+
+14. What is the largest lake in the world?
+
+1) Caspian Sea 2) Baikal 3) Lake Superior 4) Ontario
+
+
++1 point if you chose 2;
+
+
+15. What animal is the national symbol of Australia?
+
+1) Kangaroo 2) Koala 3) Emu 4) Crocodile
+
+
++1 point if you chose 1;
+
+
+16. Hitler's party is known as:
+
+1) Labour Party 2) Nazi Party 3) Ku-Klux-Klan 4) Democratic Party
+
++1 point if you chose 2;
+
+
+17. Which is the largest island?
+
+1) New Guinea 2) Andaman Nicobar 3) Greenland 4)Hawaii
+
++1 point if you chose 3;
+
+
+18. Which one of the following countries is not in Africa?
+
+1) Morocco 2) Yemen 3) Sudan 4)Algeria
+
++1 point if you chose 2;
+
+
+19. In which century the Mona Lisa was painted?
+
+1) 18th century 2) 15th century 3) 16th century 4) 14th century
+
+
++1 point if you chose 3;
+
+20. How many bones are in the body of an adult human?
+
+1) 330 2) 206 3) 250 4) 210
+
+
++1 point if you chose 2
+
+
+21. On the map the distance from the city to the village is 23 cm  Map scale is 1:200000. Find the true distance from the city to the village.
+
+
+
+type your answer like this: 98km (example). No spaces, all lowercase
+
+
++3 point if you type 46km
+
+22. What is the most common color on world flags?
+
+1) Blue; 2) White; 3) Red; 4) Black;
+
++2 point if you type 46km
+
+
+
+
+23. Which of these countries has the most colors on their flag?
+
+1) France 2) Scotland 3) South Korea 4) China
+
++1 point if you chose 3;
+
+
+
+24. How many colors are used in the South African flag?
+1) 6; 2) 5; 3) 7; 4) 2;
+
++ 1 point if you chose 1;
+
+25. Which country’s flag contains an image of the country?
+
+1) Canada 2) Cyprus 3) India 4) Russia;
++ 1 point if you chose 2; 
+
+
+max points: 30/30
+
+
+to estimate yourself, divide your points by 5.
+example: 28/5 = 5.6 That still means 6. 
+example 2: 16/5 = 3.2. That means 3.
+6 - excellent;
+5- very good;
+4 - good;
+3 - not really well;
+2 - bad; 
+
+
