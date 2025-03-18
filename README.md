@@ -1,4 +1,5 @@
-![Logo](Main/Main/logo.jpg)
+
+<img src="Main/Main/logo.jpg" alt="Logo" width="1000" height="475">
 
 <h1 align="center" color="blue">
 <strong>𓂃˖ ࣪⊹ TEAM 001 ✮⋆˙</strong>
