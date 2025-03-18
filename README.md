@@ -47,7 +47,7 @@
 <pre>git clone "https://github.com/codingburgas/sprint-eschool-team001.git"</pre>
 
 # ⭑🚀How to Use the Project 
-WORK IN PROGRESS...
+### You can use our project multiple times, trying to get the highest grade on different difficulties. You can also test your friends or family members, have great fun and learn new interesting information. We've carefully chosen from the most common facts to the ones which will blow your mind! Some of the questions require typing an answer, but don't worry, any special requirements will be indicated in the brackets. 
 
 # 📧 Where to Get Help
 ### If you need help with this project, you can use the following resources:
