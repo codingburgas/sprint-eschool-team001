@@ -246,7 +246,7 @@ bool question(int diffuclty, int question_index) {
 			answer(rightanswer);
 			break;
 		case 25:
-			cout << R"(19. Which country's silhouette is this?⠀⠀
+			cout << R"(Which country's silhouette is this?⠀⠀
                                ⣠⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣴⣶⣷⣶⣤⣤⣀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣀⠀⣀⣄⡀⣀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⣀⣀⠀
@@ -272,31 +272,262 @@ bool question(int diffuclty, int question_index) {
 
 	case 2: {
 		switch (question_index) {
-		case 1:
-		case 2:
-		case 3:
-		case 4:
-		case 5:
-		case 6:
-		case 7:
-		case 8:
-		case 9:
-		case 10:
-		case 11:
-		case 12:
-		case 13:
-		case 14:
-		case 15:
-		case 16:
-		case 17:
-		case 18:
-		case 19:
-		case 20:
-		case 21:
-		case 22:
-		case 23:
-		case 24:
-		case 25:
+
+		case 1: cout << R"(How many minutes are in a full week?
+				1) 10080;
+				2) 3600; 
+				3) 36000;
+				4)1080;)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 2: cout << R"(true or false: Holland is a region in The Netherlands?
+				type true or false, all lowercase)";
+			rightanswer = "true";
+			answer(rightanswer);
+			break;
+
+		case 3: cout << R"(In what country is the Chernobyl nuclear plant located?
+				1) USA;
+				2) Belarus; 
+				3) Ukraine; 
+				4) Poland;)";
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 4: cout << R"(4. What is the largest Spanish-speaking city in the world?
+				1) Mexico City; 
+				2) Madrid; 
+				3) Rome; 
+				4) Paris;)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 5: cout << R"(On which continent would you find the world's largest dessert?
+				1) Africa; 
+			    2) Antarctica; 
+				3) Australia; 
+				4) Asia;)";
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+
+
+		case 6: cout << R"(The capital of Ireland is...
+			1) Dublin; 
+			2) Lissabon; 
+			3) Yakutsk; 
+			4) Bangkok;)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 7: cout << R"( Which country is portrayed?
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡀⢤⣤⣄⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣨⣿⣿⣿⣿⣥⣀⣀⢀⡴⠀⠀⠀⠀⢠⣤⣤⣸⣷⡂⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣟⣁⣀⣴⣶⣾⣿⣿⣿⣿⣧⣶⣄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⢀⣸⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠰⠶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀
+⠀⠀⠐⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡅⠀⠀⠀
+⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡆⠀⠀
+⠀⠀⠐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣿⠃⠀⠀
+⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⢛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠈⠉⠙⠛⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠈⠙⠉⠻⡿⠉⠛⠿⠟⠋⠉⠁⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+ 1) Germany;
+ 2) Switzerland;
+ 3) Poland;
+ 4) Canada;
+⠀⠀⠀⠀
+)"; rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 8: cout << R"( Which country is portrayed? 
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣴⣿⣿⣿⣿⣿⣿⣇⣠⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢷⣇⣀⡀⢀⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⠀⠀⠀⠀⠀⠀
+⠛⣻⣿⣿⣿⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀
+⠘⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡶⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠿⣿⠿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠉⠀⠀⠀⠀⠀⠈⠙⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠈⠉⠛⢿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣷
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡏
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠃
+
+1) France; 2) Belgium; 3) Sudan; 4) Morocco;
+
+)";
+
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 9: cout << "If its 4 pm in Berlin, what time is it in Beijing? type your answer like this - 1am, all lowercase with no spaces;";
+			rightanswer = "11pm";
+			answer(rightanswer);
+			break;
+
+		case 10: cout << R"(How many elements are in the periodic table? 
+				1) 118; 
+				2) 18; 
+				3) 28; 
+				4) 158;)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+
+		case 11: cout << R"(Which is the only body part that is fully grown from birth?
+					1) Eyes;
+				    2) Nose; 
+					3) Lungs; 
+					4) Ears;)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 12: cout << R"( What animal has the largest brain relative to body size?
+				1) Fish;
+			    2) Eagle; 
+				3) Bat; 
+				4) Dolphin;)";
+			rightanswer = "4";
+			answer(rightanswer);
+			break;
+		case 13: cout << R"(Identical twins don't have the same...
+				 1) fingerprints; 
+				 2) eye color; 
+			     3) nose form; 
+				 4) hair color;
+)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+
+		case 14: cout << R"(Who painted the Mona Lisa?
+
+					1) Leonardo da Vinci;
+				    2) Michelangelo;
+				    3) Rembrandt;
+				    4) Vermeer;
+)"; rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+
+		case 15: cout << R"( What is the rarest blood type among humans?
+			     1) AB-negative; 
+			     2) A+; 
+			     3) AB+; 
+				 4) O+;)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 16: cout << R"(Who wrote “Pride and Prejudice”?
+				1) Jane Austen; 
+				2) Albert Einstein; 
+				3) Van Gogh; 
+				4) Salvador Dali ;
+)"; rightanswer = "1";
+			answer(rightanswer);
+			break;
+		case 17: cout << "In which year did the Titanic sink? type the answer in numbers.";
+			rightanswer = "1912";
+			answer(rightanswer);
+			break;
+		case 18: cout << R"(What is the currency of Japan?
+			1) Won; 
+			2) usd; 
+			3) eur; 
+			4) yen;
+			)"; 
+			rightanswer = "4";
+			answer(rightanswer);
+			break;
+		case 19: cout << R"(Google Chrome, Safari, Firefox, and Explorer are different types of what?
+				1) Apps; 
+				2) Social media; 
+				3) Web browsers; 
+				4) Archives;
+)";			rightanswer = "3";
+			answer(rightanswer);
+			break;
+		case 20: cout << R"(Which programming language is often used for developing Android applications?
+				1) Java; 
+				2) C; 
+				3) C++; 
+				4) HTML;
+)";			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 21: cout << "How many molecules of oxygen does ozone have? type your answer with number only;";
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 22: cout << R"( The shortest distance between Russia and the US is:
+				1) 3.8 kilometers; 
+				2) 38 km;	
+				3) 380 km; 
+				4) 3800km; )"; 
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+		case 23: cout << R"(What name does deer meat go by?
+				1) beef; 
+				2) pork; 
+				3) venison; 
+				4) deermeat;)"; 
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+		case 24: cout << R"( Which country invented tea?
+				1) Bulgaria; 
+				2) China; 
+				3) Finland; 
+				4) Norway;)"; 
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+		case 25: cout << R"( What is your body’s largest organ?
+			1) Skin; 
+			2) Leg; 
+			3) Heart; 
+			4) Stomach; )";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
 		}
 		break;
 	}
