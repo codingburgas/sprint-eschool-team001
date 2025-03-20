@@ -25,12 +25,12 @@
                             ㅤ   
 
 # ⭑🫂Team Members
-- ### Daria Larichkina (as a team leader and full stack developer);
-- ### Denis Zavalishin (as a back end developer);
-- ### Elizaveta Furnika (as a front end developer);
-- ### Varvara Safonova (as a designer);
-- ### Svyatoslav Sidorov (as a designer);
-- ### Nikol Stoyanova (as a mentor);
+- ### <a href = "https://github.com/darialarichkina"> Daria Larichkina (as a team leader and full stack developer); </a> 
+- ### <a href = "https://github.com/ddzavalishin23"> Denis Zavalishin (as a back end developer); </a>
+- ### <a href = "https://github.com/EVFurnika"> Elizaveta Furnika (as a front end developer); </a>
+- ### <a href = "https://github.com/VNSaphonova23"> Varvara Safonova (as a designer); </a>
+- ### <a href = "https://github.com/SVSidorov23"> Svyatoslav Sidorov (as a designer); </a>
+- ### <a href = "https://github.com/NSStoyanova22"> Nikol Stoyanova (as a mentor); </a>
 
 
 # ⭑💡What our Application does?
