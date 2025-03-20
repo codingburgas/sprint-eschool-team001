@@ -17,7 +17,7 @@ bool question(int diffuclty, int question_index) {
                        4) 7)";
 			rightanswer = "2";
 			answer(rightanswer);
-        break;
+			break;
 		case 2:
 			cout << R"(What is the chemical element with the symbol Fe?
                        1) Iron
@@ -263,9 +263,10 @@ bool question(int diffuclty, int question_index) {
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⠿⠟⠛⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀type your answer, one word only, beginning with capital letter)";
 			rightanswer = "Bulgaria";
-			answer(rightanswer);	
+			answer(rightanswer);
 		}
-
+		break;
+	}
 
 
 
@@ -470,7 +471,7 @@ bool question(int diffuclty, int question_index) {
 			2) usd; 
 			3) eur; 
 			4) yen;
-			)"; 
+			)";
 			rightanswer = "4";
 			answer(rightanswer);
 			break;
@@ -500,7 +501,7 @@ bool question(int diffuclty, int question_index) {
 				1) 3.8 kilometers; 
 				2) 38 km;	
 				3) 380 km; 
-				4) 3800km; )"; 
+				4) 3800km; )";
 			rightanswer = "1";
 			answer(rightanswer);
 			break;
@@ -508,7 +509,7 @@ bool question(int diffuclty, int question_index) {
 				1) beef; 
 				2) pork; 
 				3) venison; 
-				4) deermeat;)"; 
+				4) deermeat;)";
 			rightanswer = "3";
 			answer(rightanswer);
 			break;
@@ -516,7 +517,7 @@ bool question(int diffuclty, int question_index) {
 				1) Bulgaria; 
 				2) China; 
 				3) Finland; 
-				4) Norway;)"; 
+				4) Norway;)";
 			rightanswer = "2";
 			answer(rightanswer);
 			break;
@@ -530,42 +531,305 @@ bool question(int diffuclty, int question_index) {
 			break;
 		}
 		break;
-	}
 
+	}
+	
+	
 
 
 	case 3: {
 		switch (question_index) {
-		case 1:	
-		case 2:
-		case 3:
-		case 4:
-		case 5:
-		case 6:
-		case 7:
-		case 8:
-		case 9:
-		case 10:
-		case 11:
-		case 12:
-		case 13:
-		case 14:
-		case 15:
-		case 16:
-		case 17:
-		case 18:
-		case 19:
-		case 20:
-		case 21:
-		case 22:
-		case 23:
-		case 24:
-		case 25:
-		}
+		case 1:	cout << R"( What is the chemical symbol for gold?
+			type like this : Br(beginning with capital letter, two letters in sum))";
+			rightanswer = "Au";
+			answer(rightanswer);
+			break;
+		
+		case 2: cout << R"( What is the only continent where coffee grows naturally?
+				1) Africa; 
+				2) Australia; 
+				3) South America; 
+				4) Asia;)";
+		rightanswer = "1";
+		answer(rightanswer);
 		break;
+
+		case 3: cout << R"(What fruit is known as the "king of fruits"?
+			1) Dragon Fruit; 
+			2) Durian; 
+			3) Mango; 
+			4) Pineapple;)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+		case 4: cout << R"(What is the most spoken language in the world (by native speakers)?
+            1) French; 
+			2) Mandarin Chinese; 
+			3) Hindi; 
+			4) Arabic;)";
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+		case 5: cout << R"(How many keys does a standard full-size piano have?
+			1) 99; 
+			2) 77; 
+			3) 88; 
+			4) 66;)";
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 6: cout << R"(What does this insect look like when developing/ being really young?
+
+                           .oMc
+                        .MMMMMP
+                      .MM888MM
+....                .MM88888MP
+MMMMMMMMb.         d8MM8tt8MM
+ MM88888MMMMc `:' dMME8ttt8MM
+  MM88tt888EMMc:dMM8E88tt88MP
+   MM8ttt888EEM8MMEEE8E888MC
+   `MM888t8EEEM8MMEEE8t8888Mb
+    "MM88888tEM8"MME88ttt88MM
+     dM88ttt8EM8"MMM888ttt8MM
+     MM8ttt88MM" " "MMNICKMM"
+     3M88888MM"      "MMMP"
+      "MNICKM"
+
+			 1) caterpillar;
+			 2) fly; 
+		     3) worm; 
+			 4) moth
+)"; 
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 7: cout << R"( What do you call this animal being a female?
+
+    .     _,
+                   |`\__/ /
+                   \  . .(
+                    | __T|
+                   /   |
+      _.---======='    |
+     //               {}
+    `|      ,   ,     {}
+     \      /___;    ,'
+      ) ,-;`    `\  //
+     | / (        ;||
+     ||`\\        |||
+     ||  \\       |||
+     )\   )\      )||
+     `"   `"      `""
+1) hare; 2) doe; 3) ferret; 4) tadpole;)";
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+		case 8: cout << R"(What is this type of precipitation called?
+
+                           000      00
+                           0000000   0000
+              0      00  00000000000000000
+            0000 0  000000000000000000000000       0
+         000000000000000000000000000000000000000 000
+        0000000000000000000000000000000000000000000000
+    000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000
+              / / / / / / / / / / / / / / / /
+            / / / / / / / / / / / / / / /
+            / / / / / / / / / / / / / / /
+          / / / / / / / / / / / / / /
+          / / / / / / / / / / / / /
+        / / / / / / / / / / / /
+        / / / / / / / / / /
+
+1) rain; 2) snow; 3) sleet; 4) hail;)"; 
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+		case 9: cout << R"(In what year did the Chernobyl disaster occur?
+			1) 1980; 
+			2) 1983; 
+			3) 1986; 
+			4) 1989;)"; 
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 10: cout << R"( What style of art is Salvador Dalí known for?
+				1) realism; 
+				2) surrealism; 
+				3) impressionism; 
+				4) cubism)";
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+		case 11: cout << R"(What is the second largest country by land area?
+				1) The US; 
+				2) Russia; 
+				3) Canada; 
+				4) China;)";
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 12: cout << R"(What element has the atomic number 1?
+			1) Hydrogen; 
+			2) Iron; 
+			3) Oxygen; 
+			4) Gold;
+)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+		case 13: cout << R"(Who painted The Starry Night?
+
+⠀⠀⡰⢉⡄⣌⠳⡀⢸⣿⣽⣿⠀⠀⢠⣾⡿⣦⢀⣾⣶⣆⠀⠀⠀⠀⠀⠀⣠⠤⠤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠤⠤⣀⡀⠀
+⠀⠀⠳⣘⣶⣏⡰⠃⢠⡎⠉⠀⠀⠀⠀⠻⠿⠟⠀⠛⠟⠋⠀⠀⠀⠀⠀⢰⠁⡞⢱⡌⡆⠀⠀⠀⠀⠀⠀⠀⠀⣠⠊⠀⢀⣀⣀⠀⠈⠢
+⠀⠀⠀⠀⠈⠀⠀⢠⡟⣇⣀⡀⠀⠀⠀⠀⠀⣠⠤⠖⠒⠒⠒⠒⠂⠤⢄⡈⠦⣉⣉⠴⠁⠀⠀⠀⠀⠀⠀⠀⡸⠁⠀⡔⢡⠊⠁⠀⠀⠀
+⡀⠀⠀⠀⠀⠀⠀⢸⣧⣿⣿⣿⡆⠀⣠⠔⠉⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⠈⠑⠢⡀⠀⠀⣠⣶⠖⠢⡄⠀⠘⡇⠀⢸⡀⠘⣄⠀⣠⡄⠀
+⠈⠢⣀⠀⠀⠀⠀⠀⣿⡟⠛⣋⠤⢊⡡⠒⢀⡠⡔⠊⠁⠀⠀⠀⠀⠀⠀⠉⠢⣄⠘⢆⠰⡇⢾⣿⡆⢸⠀⠀⢱⡀⠀⠱⢄⣀⣉⠼⠁⠀
+⣆⠀⠈⠑⠢⠤⡤⠤⢾⠹⡉⠀⠀⠁⠀⣀⠴⢊⡠⣤⢤⡤⠀⠎⠁⠀⠀⠀⠀⠈⠆⠈⡄⠱⠤⣉⠴⠋⠀⠀⠀⠱⢄⡀⠀⠀⠀⠀⠀⠘
+⠈⠳⣄⡀⠀⠀⢠⢠⣿⠁⢳⠀⢀⡠⠚⡡⠊⢡⠞⢁⠎⠀⠈⡆⠀⠀⠀⠀⠀⠀⡜⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠋⠁⠀⠀
+⠀⠀⠈⠉⠁⠀⢸⣿⠏⠀⣼⠂⣉⠔⠋⠀⢀⡟⠀⡎⠀⠀⠀⠈⠦⣀⡀⠀⠔⠊⡠⠞⠋⢉⣉⡉⠉⠑⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
+⠢⣀⠀⠀⠀⠀⣹⠘⢧⠀⣿⡏⠀⠀⠀⠀⠈⢇⠀⢱⡀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠀⠀⣀⣀⣀⠈⠙⠢⡀⠈⡆⠀⠀⣀⠄⠀⠀⠀⠀⠀
+⢼⣿⣽⠃⢸⣿⣿⣇⠀⢣⠹⡇⠀⠀⢀⣠⠤⠼⣦⡀⠱⣄⠀⠀⠀⠀⠀⠀⠀⣀⢴⠋⢡⠄⠀⣱⠀⠀⡇⠀⣆⡤⠊⠀⠀⠀⠀⠀⠀⠀
+⠀⠉⠁⠀⠻⢿⢿⡟⢆⠈⣆⡇⠀⢠⠏⢀⣤⣤⠀⢿⠒⠦⠥⠤⠤⠤⠤⠒⠉⠀⠘⣄⠈⠁⠉⠀⣠⠞⢁⡼⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡞⢱⠀⠆⢸⡇⠀⢸⡀⠘⠿⠿⠁⢸⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠔⠚⠓⠢⠤⠄⠒⠊⠁⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢤⡘⡇⠀⢣⠀⡏⢻⡴⠀⣿⠦⠤⣤⡴⠗⠊⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⢀⣀⡀⠀⠀⢀⣀⠤⠄⠀⠀⠒⠁⢀⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⢻⠀⠀⠇⢇⠘⣷⣤⠿⡖⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⠤⠒⠉⠁⠀⠉⠑⠪⣅⣀⡀⠀⠀⠤⠔⠊⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⡇⠀⡀⢸⠀⠻⣿⠀⠱⣄⠀⠀⠀⢀⡤⠄⠤⣄⡠⠖⠋⣇⠀⠀⠀⠀⠀⣀⠴⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠈⠢⣄⡤⠤⢒⣶⡇⢀⠇⡸⠀⠰⡿⡄⠀⠈⠳⡒⠋⠀⠀⠀⠀⠀⠀⠀⠀⣿⠠⠤⠒⠊⣉⣀⣀⠀⢀⡠⠤⠼⠷⠶⠂⠀⣠⠄⠀⠀⠀
+⠀⣀⠤⠛⠉⢁⡜⠀⡜⢀⡇⠀⢠⠃⢹⠃⠀⠀⢳⢀⡀⠀⠀⠀⠀⠀⣀⢰⣿⡖⠒⠚⠛⠘⠫⠤⣙⠉⠉⠁⠐⠢⣄⡠⠞⠠⠀⠀⠀⠀
+⠋⠀⠀⠀⠀⡞⠀⢰⠁⢸⠀⢀⡏⢀⡞⡆⠀⢀⡾⢿⡷⣶⣲⣄⣸⣿⣿⣿⣿⣻⣬⣷⣄⠀⣶⡞⢻⠯⠯⢗⠀⠀⠀⠙⠢⡀⠀⠀⠀⠀
+⠄⠀⠀⠀⠀⣇⠀⢸⠀⠘⡄⢸⠀⢸⣹⠁⠀⡼⣇⠀⣆⠋⠉⠛⠛⠛⣿⣯⣿⣷⠿⣿⡄⠐⠛⠛⢻⣦⠹⢍⣳⣤⣄⣀⣠⣗⠒⠂⠀⠀
+⠀⠀⠀⠀⠉⠙⣢⡀⢧⠀⠈⢆⠳⣼⠸⡀⠸⡁⠈⠑⢌⠳⡄⢀⣀⣼⡿⢿⣿⣾⣿⣥⠾⢤⣤⣶⣄⣀⣀⠈⠹⢿⡿⠿⠧⣼⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠉⠀⠱⡄⠑⣤⡀⢣⣹⡄⠘⠢⣷⣤⣀⠀⢳⠈⡇⠀⠀⠀⠀⠙⢛⣿⡿⢧⣾⡿⠿⢛⣋⣿⣲⠀⢨⡧⠤⠀⠘⠀⠀⠀⠀
+
+
+1) Vincent van Gogh; 2) Salvador Dalí; 3) Shirley Chisholm; 4) Harper Lee
+)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+		case 14: cout << R"(What is the largest lake in the world?
+
+1) Caspian Sea 2) Baikal 3) Lake Superior 4) Ontario
+)"; rightanswer = "2";
+			answer(rightanswer);
+			break;
+
+
+		case 15: cout << R"(What animal is the national symbol of Australia?
+
+1) Kangaroo 2) Koala 3) Emu 4) Crocodile
+
+)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+
+
+		case 16: cout << R"(Hitler's party is known as:
+
+1) Labour Party 2) Nazi Party 3) Ku-Klux-Klan 4) Democratic Party
+)";
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+
+		case 17: cout << R"(Which is the largest island?
+
+1) New Guinea 2) Andaman Nicobar 3) Greenland 4)Hawaii
+
+)";			rightanswer = "1";
+			answer(rightanswer);
+			break;
+
+
+		case 18: cout << R"(
+Which one of the following countries is not in Africa?
+
+1) Morocco 2) Yemen 3) Sudan 4)Algeria
+)";			rightanswer = "2";
+			answer(rightanswer);
+			break;
+
+
+
+		case 19: cout << R"(In which century the Mona Lisa was painted?
+
+1) 18th century 2) 15th century 3) 16th century 4) 14th century
+)";
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 20: cout << R"(How many bones are in the body of an adult human?
+
+1) 330 2) 206 3) 250 4) 210)";
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+
+		case 21: cout << R"(On the map the distance from the city to the village is 23 cm  Map scale is 1:200000. Find the true distance from the city to the village.
+type your answer like this: 98km (example). No spaces, all lowercase
+
+)"; 
+			rightanswer = "46km";
+			answer(rightanswer);
+			break;
+
+		case 22: cout << R"(What is the most common color on world flags?
+1) Blue; 2) White; 3) Red; 4) Black;
+)"; 
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 23: cout << R"(Which of these countries has the most colors on their flag?
+1) France 2) Scotland 3) South Korea 4) China
+)";
+			rightanswer = "3";
+			answer(rightanswer);
+			break;
+
+		case 24: cout << R"(How many colors are used in the South African flag?
+1) 6; 2) 5; 3) 7; 4) 2;
+)";
+			rightanswer = "1";
+			answer(rightanswer);
+			break;
+		case 25: cout << R"(Which country’s flag contains an image of the country?
+
+1) Canada 2) Cyprus 3) India 4) Russia;
+)";
+			rightanswer = "2";
+			answer(rightanswer);
+			break;
+	}
+		  break;
+	}
 	}
 
-	}
+	
 	//Here will be questions pool, need to do a switch case for easy normal hard questions and some functions for answering
 
-}
+	/*
+	* max points: 30/30
+
+
+to estimate yourself, divide your points by 5.
+example: 28/5 = 5.6 That still means 6. 
+example 2: 16/5 = 3.2. That means 3.
+6 - excellent;
+5- very good;
+4 - good;
+3 - not really well;
+2 - bad; 
+
+
+	*/
