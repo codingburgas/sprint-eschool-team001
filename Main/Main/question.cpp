@@ -1,4 +1,4 @@
-﻿#include "question.h";
+﻿#include "question.h"
 #include "answer.h"
 #include <string>
 #include <iostream>
@@ -16,7 +16,7 @@ bool question(int diffuclty, int question_index) {
                        3) 6
                        4) 7)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 2:
 			cout << R"(What is the chemical element with the symbol Fe?
@@ -25,17 +25,17 @@ bool question(int diffuclty, int question_index) {
                        3) Fermium
                        4) Flerovium)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 3:
 			cout << R"(In what year did World War II end?
-                       1) 1944
+                       1) 1944s
                        2) 1945
                        3) 1946
                        4) 1942)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 4:
 			cout << R"(Where did sushi originate?
@@ -44,7 +44,7 @@ bool question(int diffuclty, int question_index) {
                        3) Nepal
                        4) China)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 5:
 			cout << R"(How many days does it take for the Earth to orbit the Sun?
@@ -53,7 +53,7 @@ bool question(int diffuclty, int question_index) {
                        3) 362
                        4) 368)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 6:
 
@@ -63,12 +63,12 @@ bool question(int diffuclty, int question_index) {
                        3) Monaco
                        4) Tuvalu)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 7:
 			cout << R"(What's the capital city of Bulgaria? (type only one word, beginning with capital letter))";
 			rightanswer = "Sofia";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 8:
 			cout << R"(What's the most spoken language in the world?
@@ -77,7 +77,7 @@ bool question(int diffuclty, int question_index) {
                        3) Hindi
                        4) Arabic)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 9:
 			cout << R"(How do you say 'Hello' in French?
@@ -86,7 +86,7 @@ bool question(int diffuclty, int question_index) {
                        3) Anneyong
                        4) Privet)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 10:
 			cout << R"(The largest planet of Solar System is...
@@ -95,7 +95,7 @@ bool question(int diffuclty, int question_index) {
                        3) Jupiter
                        4) Sun)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 11:
@@ -105,7 +105,7 @@ bool question(int diffuclty, int question_index) {
                        3) Mississippi
                        4) Lena)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 12:
 
@@ -115,7 +115,7 @@ bool question(int diffuclty, int question_index) {
                        3) Blue and Green
                        4) Blue and Black)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 13:
 			cout << R"(Which state is famous for Hollywood?
@@ -124,7 +124,7 @@ bool question(int diffuclty, int question_index) {
                        3) Texas
                        4) Arizona)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 14:
 			cout << R"(Who wrote Hamlet?
@@ -133,7 +133,7 @@ bool question(int diffuclty, int question_index) {
                        3) Agatha Christie
                        4) J.K Rowling)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 15:
 			cout << R"(How many colors are in a rainbow?
@@ -142,7 +142,7 @@ bool question(int diffuclty, int question_index) {
                        3) Nine
                        4) Seven)";
 			rightanswer = "4";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 16:
 
@@ -152,7 +152,7 @@ bool question(int diffuclty, int question_index) {
                        3) Spiders
                        4) Mountains)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 17:
 
@@ -162,7 +162,7 @@ bool question(int diffuclty, int question_index) {
                        3) Kilimanjaro
                        4) Mount Blackburn)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 18:
 			cout << R"(Who wrote the novel “War and Peace”?
@@ -171,7 +171,7 @@ bool question(int diffuclty, int question_index) {
                        3) Leo Tolstoy
                        4) Ivan Turgenev)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 19:
 			cout << R"(Which country's silhouette is this?
@@ -197,7 +197,7 @@ bool question(int diffuclty, int question_index) {
                        3) Russia
                        4) Pakistan)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 20:
 			cout << R"(Which language is this: 안녕하세요
@@ -206,7 +206,7 @@ bool question(int diffuclty, int question_index) {
                        3) Hindi
                        4) Korean)";
 			rightanswer = "4";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 21:
 
@@ -216,7 +216,7 @@ bool question(int diffuclty, int question_index) {
                        3) Dog
                        4) Carrot)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 22:
 			cout << R"("A piece of cake" means...
@@ -225,7 +225,7 @@ bool question(int diffuclty, int question_index) {
                        3) Something easy
                        4) Bad weather)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 23:
 			cout << R"(How many vowels are there in the English alphabet?
@@ -234,7 +234,7 @@ bool question(int diffuclty, int question_index) {
                        3) 3
                        4) 4)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 24:
 			cout << R"(How many days does February have in a leap year?
@@ -243,7 +243,7 @@ bool question(int diffuclty, int question_index) {
                        3) 27
                        4) 26)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 25:
 			cout << R"(Which country's silhouette is this?⠀⠀
@@ -263,7 +263,7 @@ bool question(int diffuclty, int question_index) {
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⠿⠟⠛⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀type your answer, one word only, beginning with capital letter)";
 			rightanswer = "Bulgaria";
-			answer(rightanswer);
+			return answer(rightanswer);;
 		}
 		break;
 	}
@@ -280,13 +280,13 @@ bool question(int diffuclty, int question_index) {
 				3) 36000;
 				4)1080;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 2: cout << R"(true or false: Holland is a region in The Netherlands?
 				type true or false, all lowercase)";
 			rightanswer = "true";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 3: cout << R"(In what country is the Chernobyl nuclear plant located?
@@ -295,7 +295,7 @@ bool question(int diffuclty, int question_index) {
 				3) Ukraine; 
 				4) Poland;)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 4: cout << R"(4. What is the largest Spanish-speaking city in the world?
@@ -304,7 +304,7 @@ bool question(int diffuclty, int question_index) {
 				3) Rome; 
 				4) Paris;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 5: cout << R"(On which continent would you find the world's largest dessert?
@@ -313,7 +313,7 @@ bool question(int diffuclty, int question_index) {
 				3) Australia; 
 				4) Asia;)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -323,7 +323,7 @@ bool question(int diffuclty, int question_index) {
 			3) Yakutsk; 
 			4) Bangkok;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 7: cout << R"( Which country is portrayed?
@@ -357,7 +357,7 @@ bool question(int diffuclty, int question_index) {
  4) Canada;
 ⠀⠀⠀⠀
 )"; rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 8: cout << R"( Which country is portrayed? 
@@ -388,12 +388,12 @@ bool question(int diffuclty, int question_index) {
 )";
 
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 9: cout << "If its 4 pm in Berlin, what time is it in Beijing? type your answer like this - 1am, all lowercase with no spaces;";
 			rightanswer = "11pm";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 10: cout << R"(How many elements are in the periodic table? 
@@ -402,7 +402,7 @@ bool question(int diffuclty, int question_index) {
 				3) 28; 
 				4) 158;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -412,7 +412,7 @@ bool question(int diffuclty, int question_index) {
 					3) Lungs; 
 					4) Ears;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 12: cout << R"( What animal has the largest brain relative to body size?
@@ -421,7 +421,7 @@ bool question(int diffuclty, int question_index) {
 				3) Bat; 
 				4) Dolphin;)";
 			rightanswer = "4";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 13: cout << R"(Identical twins don't have the same...
 				 1) fingerprints; 
@@ -430,7 +430,7 @@ bool question(int diffuclty, int question_index) {
 				 4) hair color;
 )";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -441,7 +441,7 @@ bool question(int diffuclty, int question_index) {
 				    3) Rembrandt;
 				    4) Vermeer;
 )"; rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -451,7 +451,7 @@ bool question(int diffuclty, int question_index) {
 			     3) AB+; 
 				 4) O+;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 16: cout << R"(Who wrote “Pride and Prejudice”?
@@ -460,11 +460,11 @@ bool question(int diffuclty, int question_index) {
 				3) Van Gogh; 
 				4) Salvador Dali ;
 )"; rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 17: cout << "In which year did the Titanic sink? type the answer in numbers.";
 			rightanswer = "1912";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 18: cout << R"(What is the currency of Japan?
 			1) Won; 
@@ -473,7 +473,7 @@ bool question(int diffuclty, int question_index) {
 			4) yen;
 			)";
 			rightanswer = "4";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 19: cout << R"(Google Chrome, Safari, Firefox, and Explorer are different types of what?
 				1) Apps; 
@@ -481,7 +481,7 @@ bool question(int diffuclty, int question_index) {
 				3) Web browsers; 
 				4) Archives;
 )";			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 20: cout << R"(Which programming language is often used for developing Android applications?
 				1) Java; 
@@ -489,12 +489,12 @@ bool question(int diffuclty, int question_index) {
 				3) C++; 
 				4) HTML;
 )";			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 21: cout << "How many molecules of oxygen does ozone have? type your answer with number only;";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 22: cout << R"( The shortest distance between Russia and the US is:
@@ -503,7 +503,7 @@ bool question(int diffuclty, int question_index) {
 				3) 380 km; 
 				4) 3800km; )";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 23: cout << R"(What name does deer meat go by?
 				1) beef; 
@@ -511,7 +511,7 @@ bool question(int diffuclty, int question_index) {
 				3) venison; 
 				4) deermeat;)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 24: cout << R"( Which country invented tea?
 				1) Bulgaria; 
@@ -519,7 +519,7 @@ bool question(int diffuclty, int question_index) {
 				3) Finland; 
 				4) Norway;)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 25: cout << R"( What is your body’s largest organ?
 			1) Skin; 
@@ -527,14 +527,14 @@ bool question(int diffuclty, int question_index) {
 			3) Heart; 
 			4) Stomach; )";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		}
 		break;
 
 	}
-	
-	
+
+
 
 
 	case 3: {
@@ -542,17 +542,17 @@ bool question(int diffuclty, int question_index) {
 		case 1:	cout << R"( What is the chemical symbol for gold?
 			type like this : Br(beginning with capital letter, two letters in sum))";
 			rightanswer = "Au";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
-		
+
 		case 2: cout << R"( What is the only continent where coffee grows naturally?
 				1) Africa; 
 				2) Australia; 
 				3) South America; 
 				4) Asia;)";
-		rightanswer = "1";
-		answer(rightanswer);
-		break;
+			rightanswer = "1";
+			return answer(rightanswer);;
+			break;
 
 		case 3: cout << R"(What fruit is known as the "king of fruits"?
 			1) Dragon Fruit; 
@@ -560,7 +560,7 @@ bool question(int diffuclty, int question_index) {
 			3) Mango; 
 			4) Pineapple;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 4: cout << R"(What is the most spoken language in the world (by native speakers)?
             1) French; 
@@ -568,7 +568,7 @@ bool question(int diffuclty, int question_index) {
 			3) Hindi; 
 			4) Arabic;)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 5: cout << R"(How many keys does a standard full-size piano have?
 			1) 99; 
@@ -576,7 +576,7 @@ bool question(int diffuclty, int question_index) {
 			3) 88; 
 			4) 66;)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 6: cout << R"(What does this insect look like when developing/ being really young?
@@ -600,9 +600,9 @@ MMMMMMMMb.         d8MM8tt8MM
 			 2) fly; 
 		     3) worm; 
 			 4) moth
-)"; 
+)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 7: cout << R"( What do you call this animal being a female?
@@ -624,7 +624,7 @@ MMMMMMMMb.         d8MM8tt8MM
      `"   `"      `""
 1) hare; 2) doe; 3) ferret; 4) tadpole;)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 8: cout << R"(What is this type of precipitation called?
 
@@ -644,18 +644,18 @@ MMMMMMMMb.         d8MM8tt8MM
         / / / / / / / / / / / /
         / / / / / / / / / /
 
-1) rain; 2) snow; 3) sleet; 4) hail;)"; 
+1) rain; 2) snow; 3) sleet; 4) hail;)";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 9: cout << R"(In what year did the Chernobyl disaster occur?
 			1) 1980; 
 			2) 1983; 
 			3) 1986; 
-			4) 1989;)"; 
+			4) 1989;)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 10: cout << R"( What style of art is Salvador Dalí known for?
@@ -664,7 +664,7 @@ MMMMMMMMb.         d8MM8tt8MM
 				3) impressionism; 
 				4) cubism)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 11: cout << R"(What is the second largest country by land area?
 				1) The US; 
@@ -672,7 +672,7 @@ MMMMMMMMb.         d8MM8tt8MM
 				3) Canada; 
 				4) China;)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 12: cout << R"(What element has the atomic number 1?
@@ -682,7 +682,7 @@ MMMMMMMMb.         d8MM8tt8MM
 			4) Gold;
 )";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 13: cout << R"(Who painted The Starry Night?
 
@@ -712,13 +712,13 @@ MMMMMMMMb.         d8MM8tt8MM
 1) Vincent van Gogh; 2) Salvador Dalí; 3) Shirley Chisholm; 4) Harper Lee
 )";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 14: cout << R"(What is the largest lake in the world?
 
 1) Caspian Sea 2) Baikal 3) Lake Superior 4) Ontario
 )"; rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -728,7 +728,7 @@ MMMMMMMMb.         d8MM8tt8MM
 
 )";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -738,7 +738,7 @@ MMMMMMMMb.         d8MM8tt8MM
 1) Labour Party 2) Nazi Party 3) Ku-Klux-Klan 4) Democratic Party
 )";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 17: cout << R"(Which is the largest island?
@@ -746,7 +746,7 @@ MMMMMMMMb.         d8MM8tt8MM
 1) New Guinea 2) Andaman Nicobar 3) Greenland 4)Hawaii
 
 )";			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -755,7 +755,7 @@ Which one of the following countries is not in Africa?
 
 1) Morocco 2) Yemen 3) Sudan 4)Algeria
 )";			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 
@@ -765,59 +765,56 @@ Which one of the following countries is not in Africa?
 1) 18th century 2) 15th century 3) 16th century 4) 14th century
 )";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 20: cout << R"(How many bones are in the body of an adult human?
 
 1) 330 2) 206 3) 250 4) 210)";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 21: cout << R"(On the map the distance from the city to the village is 23 cm  Map scale is 1:200000. Find the true distance from the city to the village.
 type your answer like this: 98km (example). No spaces, all lowercase
 
-)"; 
+)";
 			rightanswer = "46km";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 22: cout << R"(What is the most common color on world flags?
 1) Blue; 2) White; 3) Red; 4) Black;
-)"; 
+)";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 23: cout << R"(Which of these countries has the most colors on their flag?
 1) France 2) Scotland 3) South Korea 4) China
 )";
 			rightanswer = "3";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 
 		case 24: cout << R"(How many colors are used in the South African flag?
 1) 6; 2) 5; 3) 7; 4) 2;
 )";
 			rightanswer = "1";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
 		case 25: cout << R"(Which country’s flag contains an image of the country?
 
 1) Canada 2) Cyprus 3) India 4) Russia;
 )";
 			rightanswer = "2";
-			answer(rightanswer);
+			return answer(rightanswer);;
 			break;
+		}
+		break;
 	}
-		  break;
 	}
-	}
-
-	
-	//Here will be questions pool, need to do a switch case for easy normal hard questions and some functions for answering
-
+}
 	/*
 	* max points: 30/30
 
