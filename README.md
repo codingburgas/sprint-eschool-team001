@@ -21,7 +21,7 @@
 # ⭑🧑‍🎓Who are we and what's our project about?
 
 ## We are TEAM 001. Our project is based on the C++ programme-TEST, which helps users to test their general knowledge! There are some basic facts everybody has to be aware of, right? If you wanna find out wether your general knowledge is good enough, take our 25-questions test. However, be careful: there are 3 difficulties:
-![Static Badge](https://img.shields.io/badge/difficulty-easy-green?style=for-the-badge) ; ![Static Badge](https://img.shields.io/badge/difficulty-medium-orange?style=for-the-badge) ; ![Static Badge](https://img.shields.io/badge/difficulty-difficult-red?style=for-the-badge);ㅤㅤㅤㅤ
+![Static Badge](https://img.shields.io/badge/difficulty-easy-green?style=for-the-badge) ; ![Static Badge](https://img.shields.io/badge/difficulty-medium-orange?style=for-the-badge) ; ![Static Badge](https://img.shields.io/badge/difficulty-hard-red?style=for-the-badge);ㅤㅤㅤㅤ
                             ㅤ   
 
 # ⭑🫂Team Members
