@@ -40,6 +40,7 @@
 - ### PROGRAMMING LANGUAGE ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ### APPS ![GOOGLE DOCS Badge](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white4) ![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio 2022 logo" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub logo" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git" width=32px>
 - ### DOCUMENTATION <img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" alt="Word" width=32px> <img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="PowerPoint" width=32px>
+- ### SCHEME: <a href="https://miro.com/welcomeonboard/ODAyY1NMOTNXZ2RnS0plbGljdEZnMDB5eGF5eER6Q0g1L29KWFJBTkIzMGRkTHUzK0IzbzUxdERLMEN6QVdveW9ITmluSllMS05pa1hpYmEycHQvclQ4QkVrOVNVbDlleUdoblIvM29id0Z0ZW11ZzVldmpmSFRBNmtKemlEak5zVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=53553435495">Link to the scheme</a>
    
 
 
@@ -68,7 +69,7 @@
 
    Denis - ddzavalishin23@codingburgas.bg
 
-   Nikol - nsstoyanova22@codingburgas.bg
+   Nikol - nsstoyanova22@codingburgas.bg  
 ## 3. **Email Support**: For more personalized help, you can email us. The email adresses are equal to the ones above.
 
 ### Feel free to reach out through any of these options, and we'll be happy to assist you!❤️
