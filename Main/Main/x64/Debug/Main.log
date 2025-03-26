@@ -1,2 +1,3 @@
-﻿  test.cpp
-  Main.vcxproj -> C:\Users\Denis\Desktop\project march\sprint-eschool-team001\Main\x64\Debug\Main.exe
+﻿  menu.cpp
+C:\Users\Dasha\Pictures\sprint-eschool-team001\Main\Main\menu.cpp(127,1): warning C4715: 'menu': not all control paths return a value
+  Main.vcxproj -> C:\Users\Dasha\Pictures\sprint-eschool-team001\Main\x64\Debug\Main.exe
