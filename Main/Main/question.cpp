@@ -11,13 +11,13 @@ bool question(int diffuclty, int question_index) {
 			// Here will be questions
 		case 1:
 			cout << R"(How many stars are on the Chinese flag ? 
-                       1) 4
-                       2) 5
-                       3) 6
-                       4) 7)";
+1) 4
+2) 5
+3) 6
+4) 7)";
 			rightanswer = "2";
 			return answer(rightanswer);;
-			break;
+		break;
 		case 2:
 			cout << R"(What is the chemical element with the symbol Fe?
                        1) Iron
@@ -27,7 +27,7 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "1";
 			return answer(rightanswer);;
 			break;
-
+			cout << endl;
 		case 3:
 			cout << R"(In what year did World War II end?
                        1) 1944s
@@ -37,6 +37,7 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "2";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 4:
 			cout << R"(Where did sushi originate?
                        1) Japan
@@ -46,6 +47,7 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "1";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 5:
 			cout << R"(How many days does it take for the Earth to orbit the Sun?
                        1) 356
@@ -56,7 +58,6 @@ bool question(int diffuclty, int question_index) {
 			return answer(rightanswer);;
 			break;
 		case 6:
-
 			cout << R"(What's the smallest country in the world?
                        1) The Vatican
                        2) The UK
@@ -65,11 +66,13 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "1";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 7:
 			cout << R"(What's the capital city of Bulgaria? (type only one word, beginning with capital letter))";
 			rightanswer = "Sofia";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 8:
 			cout << R"(What's the most spoken language in the world?
                        1) English
@@ -79,6 +82,7 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "1";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 9:
 			cout << R"(How do you say 'Hello' in French?
                        1) Hallo
@@ -88,6 +92,7 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "2";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 10:
 			cout << R"(The largest planet of Solar System is...
                        1) Earth
@@ -97,7 +102,7 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "3";
 			return answer(rightanswer);;
 			break;
-
+			cout << endl;
 		case 11:
 			cout << R"(The longest river in the world is...
                        1) The Nile
@@ -107,8 +112,8 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "1";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 12:
-
 			cout << R"(What primary colors can be mixed to get purple?
                        1) Orange and Blue
                        2) Red and Blue
@@ -117,6 +122,7 @@ bool question(int diffuclty, int question_index) {
 			rightanswer = "2";
 			return answer(rightanswer);;
 			break;
+			cout << endl;
 		case 13:
 			cout << R"(Which state is famous for Hollywood?
                        1) California
@@ -246,20 +252,19 @@ Perth  \*        __.--._          /
 			break;
 		case 25:
 			cout << R"(Which country's silhouette is this?⠀⠀
-                               ⣠⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣴⣶⣷⣶⣤⣤⣀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣀⠀⣀⣄⡀⣀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⣀⣀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⠋
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠃⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣅⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠻⠛⠉⠉⠻⡿⠿⠷⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠿⠿⠿⠿⠻⠏⠉⠛⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⠿⠟⠛⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢰⣷⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣶⣤⣄⣀⠀⠀⠀⠀⠀
+⠀⠀⢿⣿⣷⣶⣦⣤⣤⣤⣤⣤⣤⣤⣀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⡄⠀
+⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠃⠀
+⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀
+⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀
+⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀
+⠀⠀⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠻⡿⠿⠀⠀⠀⠀
+⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠛⠛⠋⠉⠉⠁⠀⠉⠻⢿⣿⣿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀type your answer, one word only, beginning with capital letter)";
 			rightanswer = "Bulgaria";
 			return answer(rightanswer);;
@@ -297,7 +302,7 @@ Perth  \*        __.--._          /
 			return answer(rightanswer);;
 			break;
 
-		case 4: cout << R"(4. What is the largest Spanish-speaking city in the world?
+		case 4: cout << R"(What is the largest Spanish-speaking city in the world?
 				1) Mexico City; 
 				2) Madrid; 
 				3) Rome; 
@@ -452,7 +457,7 @@ Perth  \*        __.--._          /
 			return answer(rightanswer);;
 			break;
 
-		case 16: cout << R"(Who wrote “Pride and Prejudice”?
+		case 16: cout << R"(Who wrote "Pride and Prejudice"?
 				1) Jane Austen; 
 				2) Albert Einstein; 
 				3) Van Gogh; 
