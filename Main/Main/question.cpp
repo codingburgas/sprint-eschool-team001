@@ -20,10 +20,10 @@ bool question(int diffuclty, int question_index) {
 			break;
 		case 2:
 			cout << R"(What is the chemical element with the symbol Fe?
-                       1) Iron
-                       2) Iodine
-                       3) Fermium
-                       4) Flerovium)";
+1) Iron
+2) Iodine
+3) Fermium
+4) Flerovium)";
 			rightanswer = "1";
 			return answer(rightanswer);;
 			break;
@@ -181,7 +181,7 @@ bool question(int diffuclty, int question_index) {
 			break;
 		case 19:
 			cout << R"(Which country's silhouette is this?
-               _,__        .:
+                 _,__        .:
          Darwin <*  /        | \
             .-./     |.     :  :,
            /           '-._/     \_
@@ -252,7 +252,6 @@ Perth  \*        __.--._          /
 			break;
 		case 25:
 			cout << R"(Which continent is this?⠀⠀
-                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀          ___________
            / |       | |
         ,' ,'         \/',_    __
@@ -284,8 +283,8 @@ Perth  \*        __.--._          /
                          |    |       []_|
                           \___'        /
                            \       __,'
-                            \_____/  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀type your answer, one word only, beginning with capital letter)";
+                            \_____/
+type your answer, one word only, beginning with capital letter)";
 			rightanswer = "Africa";
 			return answer(rightanswer);;
 		}
@@ -389,7 +388,7 @@ Perth  \*        __.--._          /
    / \/   \/    /__
   )                "-+._
  ."                      \
-(       B R A S I L       )
+(                         )
  \                      /
    \__                 (
       >_               )
@@ -475,7 +474,7 @@ Perth  \*        __.--._          /
 				1) Jane Austen; 
 				2) Albert Einstein; 
 				3) Van Gogh; 
-				4) Salvador Dali ;
+				4) Salvador Dali;
 )"; rightanswer = "1";
 			return answer(rightanswer);;
 			break;
@@ -675,7 +674,7 @@ MMMMMMMMb.         d8MM8tt8MM
 			return answer(rightanswer);;
 			break;
 
-		case 10: cout << R"( What style of art is Salvador Dalí known for?
+		case 10: cout << R"( What style of art is Salvador Dali known for?
 				1) realism; 
 				2) surrealism; 
 				3) impressionism; 
@@ -703,7 +702,7 @@ MMMMMMMMb.         d8MM8tt8MM
 			break;
 		case 13: cout << R"(Who painted The Starry Night?
 
-1) Vincent van Gogh; 2) Salvador Dalí; 3) Shirley Chisholm; 4) Harper Lee
+1) Vincent van Gogh; 2) Salvador Dali; 3) Shirley Chisholm; 4) Harper Lee
 )";
 			rightanswer = "1";
 			return answer(rightanswer);;
